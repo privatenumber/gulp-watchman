@@ -8,6 +8,8 @@ gulp.task('build', function () {
 gulp.task('watch', function() {
 
 	watchman('./testWatchDir', {
+		// logs: false,
+		sinceInit: true,
 		expression: [
 			'allof',
 
