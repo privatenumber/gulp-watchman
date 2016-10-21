@@ -1,0 +1,26 @@
+{
+  "name": "gulp-watchman",
+  "version": "1.0.0",
+  "description": "Gulp plugin for Facebooks Watchman",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirokiosame/gulp-watchman.git"
+  },
+  "author": "Hiroki Osame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirokiosame/gulp-watchman/issues"
+  },
+  "homepage": "https://github.com/hirokiosame/gulp-watchman#readme",
+  "devDependencies": {
+    "fb-watchman": "^1.9.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "vinyl": "^2.0.0",
+    "vinyl-file": "^2.0.0"
+  }
+}
