@@ -4,7 +4,7 @@ Simple wrapper around Facebook's [Watchman](https://facebook.github.io/watchman/
 ## Installation
 
 ```
-npm install --save-dev hirokiosame/gulp-watchman
+npm install --save-dev gulp-watchman
 ```
 
 ## Usage
